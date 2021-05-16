@@ -1,5 +1,5 @@
-0987654321
-1234567890
+54321
+12345
 Hello Git Hello Nekooo
 Hello Git Hello Nekooo
 Hello Git Hello Nekooo
