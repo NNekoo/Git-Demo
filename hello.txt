@@ -5,10 +5,4 @@ Hello Git Hello Nekooo
 Hello Git Hello Nekooo
 Hello Git Hello Nekooo
 Hello Git Hello Nekooo
-Hello Git Hello Nekooo
-Hello Git Hello Nekooo
-Hello Git Hello Nekooo
-Hello Git Hello Nekooo
-Hello Git Hello Nekooo
-Hello Git Hello Nekooo
-Hello Git Hello Nekooo
+master
